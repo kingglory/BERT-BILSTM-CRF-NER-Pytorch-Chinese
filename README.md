@@ -183,7 +183,8 @@ class BERT_BiLSTM_CRF(BertPreTrainedModel):
 
 #### 验证指标
 
-![](C:\Users\daobi\AppData\Roaming\marktext\images\2022-12-19-16-15-20-image.png)
+<img width="488" alt="lQLPJxftS4EHwsDNATrNA8-wgAjO6sjocKMDm_czz0AdAA_975_314" src="https://user-images.githubusercontent.com/25979008/208382109-8e2919bd-b61d-4518-8b8f-6143c26733c7.png">
+
 
 ##### 参考文章
 
