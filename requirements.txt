@@ -1,0 +1,9 @@
+pytorch-crf==0.7.2
+tensorboard==2.11.0
+tensorflow==2.3.0
+tokenizers==0.10.3
+torch==1.8.0+cu111
+torchaudio==0.8.0
+torchvision==0.9.0+cu111
+tqdm==4.62.0
+transformers==4.9.0
